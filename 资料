@@ -2,3 +2,8 @@
 https://www.cnblogs.com/vaen/p/14759458.html
 2.规范
 https://github.com/xxjwxc/uber_go_guide_cn
+日志库
+https://github.com/uber-go/zap
+热重启
+https://github.com/cosmtrek/air
+限流
