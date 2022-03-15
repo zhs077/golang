@@ -7,3 +7,9 @@ https://github.com/uber-go/zap
 热重启
 https://github.com/cosmtrek/air
 限流
+
+token验证
+https://github.com/golang-jwt/jwt
+
+每日一库
+https://github.com/darjun/go-daily-lib
